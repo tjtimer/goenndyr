@@ -4,7 +4,7 @@ async-timeout==3.0.1
 attrs==19.3.0
 cffi==1.13.2
 chardet==3.0.4
-cryptography==2.8
+cryptography==3.2
 idna==2.8
 more-itertools==8.2.0
 multidict==4.7.4
